@@ -1,0 +1,27 @@
+.top-right-actions {
+    position: relative;
+    &:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 50vw;
+        left: 0;
+        background-color: inherit;
+        z-index: -1;
+    }
+}
+
+.top-left-ext {
+    position: relative;
+    &:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100vw;
+        right: 100%;
+        background-color: inherit;
+        z-index: -1;
+    }
+}
