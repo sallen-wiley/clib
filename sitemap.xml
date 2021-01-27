@@ -22,10 +22,16 @@
         <loc>https://clib.bss.design/prototypes/content-header/trials.html</loc>
     </url>
     <url>
+        <loc>https://clib.bss.design/prototypes/content-header/trials-ctgov.html</loc>
+    </url>
+    <url>
         <loc>https://clib.bss.design/prototypes/editorial-note/borders.html</loc>
     </url>
     <url>
         <loc>https://clib.bss.design/prototypes/editorial-note/grey-box.html</loc>
+    </url>
+    <url>
+        <loc>https://clib.bss.design/prototypes/search/search-results.html</loc>
     </url>
     <url>
         <loc>https://clib.bss.design/prototypes/token-select/institution-log-in.html</loc>
